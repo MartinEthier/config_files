@@ -1,2 +1,6 @@
 # config_files
-Various useful config file.
+Some useful config files for my Ubuntu. 
+
+## Includes:
+* bashrc
+* tmux.conf
